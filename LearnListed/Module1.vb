@@ -17,13 +17,10 @@
                 Console.ReadLine()
 
 
-
             Next
 
         Next
 
     End Sub
-
-
 
 End Module
